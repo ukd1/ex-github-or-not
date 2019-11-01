@@ -18,4 +18,4 @@ This is a really simple script to track who publically joins / leaves github. It
 
 We started with 214 publically listed folks. The current count as of #{Date.today} is #{cnt}.")
 
-`git add README.md members && git commit -am "Update members" && git push origin master`
+puts `git add README.md members && git commit --allow-empty -am "Update members" && git push origin master`
