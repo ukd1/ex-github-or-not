@@ -1,0 +1,20 @@
+{
+  "login": "technicalpickles",
+  "id": 159,
+  "node_id": "MDQ6VXNlcjE1OQ==",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/159?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/technicalpickles",
+  "html_url": "https://github.com/technicalpickles",
+  "followers_url": "https://api.github.com/users/technicalpickles/followers",
+  "following_url": "https://api.github.com/users/technicalpickles/following{/other_user}",
+  "gists_url": "https://api.github.com/users/technicalpickles/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/technicalpickles/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/technicalpickles/subscriptions",
+  "organizations_url": "https://api.github.com/users/technicalpickles/orgs",
+  "repos_url": "https://api.github.com/users/technicalpickles/repos",
+  "events_url": "https://api.github.com/users/technicalpickles/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/technicalpickles/received_events",
+  "type": "User",
+  "site_admin": true
+}

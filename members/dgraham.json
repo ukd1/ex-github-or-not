@@ -1,0 +1,20 @@
+{
+  "login": "dgraham",
+  "id": 122102,
+  "node_id": "MDQ6VXNlcjEyMjEwMg==",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/122102?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dgraham",
+  "html_url": "https://github.com/dgraham",
+  "followers_url": "https://api.github.com/users/dgraham/followers",
+  "following_url": "https://api.github.com/users/dgraham/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dgraham/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dgraham/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dgraham/subscriptions",
+  "organizations_url": "https://api.github.com/users/dgraham/orgs",
+  "repos_url": "https://api.github.com/users/dgraham/repos",
+  "events_url": "https://api.github.com/users/dgraham/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dgraham/received_events",
+  "type": "User",
+  "site_admin": true
+}

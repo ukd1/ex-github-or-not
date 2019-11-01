@@ -1,0 +1,20 @@
+{
+  "login": "jamiehannaford",
+  "id": 1867202,
+  "node_id": "MDQ6VXNlcjE4NjcyMDI=",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1867202?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jamiehannaford",
+  "html_url": "https://github.com/jamiehannaford",
+  "followers_url": "https://api.github.com/users/jamiehannaford/followers",
+  "following_url": "https://api.github.com/users/jamiehannaford/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jamiehannaford/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jamiehannaford/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jamiehannaford/subscriptions",
+  "organizations_url": "https://api.github.com/users/jamiehannaford/orgs",
+  "repos_url": "https://api.github.com/users/jamiehannaford/repos",
+  "events_url": "https://api.github.com/users/jamiehannaford/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jamiehannaford/received_events",
+  "type": "User",
+  "site_admin": true
+}

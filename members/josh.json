@@ -1,0 +1,20 @@
+{
+  "login": "josh",
+  "id": 137,
+  "node_id": "MDQ6VXNlcjEzNw==",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/137?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/josh",
+  "html_url": "https://github.com/josh",
+  "followers_url": "https://api.github.com/users/josh/followers",
+  "following_url": "https://api.github.com/users/josh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/josh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/josh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/josh/subscriptions",
+  "organizations_url": "https://api.github.com/users/josh/orgs",
+  "repos_url": "https://api.github.com/users/josh/repos",
+  "events_url": "https://api.github.com/users/josh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/josh/received_events",
+  "type": "User",
+  "site_admin": true
+}

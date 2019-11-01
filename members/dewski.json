@@ -1,0 +1,20 @@
+{
+  "login": "dewski",
+  "id": 79995,
+  "node_id": "MDQ6VXNlcjc5OTk1",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/79995?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/dewski",
+  "html_url": "https://github.com/dewski",
+  "followers_url": "https://api.github.com/users/dewski/followers",
+  "following_url": "https://api.github.com/users/dewski/following{/other_user}",
+  "gists_url": "https://api.github.com/users/dewski/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/dewski/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/dewski/subscriptions",
+  "organizations_url": "https://api.github.com/users/dewski/orgs",
+  "repos_url": "https://api.github.com/users/dewski/repos",
+  "events_url": "https://api.github.com/users/dewski/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/dewski/received_events",
+  "type": "User",
+  "site_admin": true
+}

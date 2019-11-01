@@ -1,0 +1,20 @@
+{
+  "login": "tclem",
+  "id": 136521,
+  "node_id": "MDQ6VXNlcjEzNjUyMQ==",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/136521?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tclem",
+  "html_url": "https://github.com/tclem",
+  "followers_url": "https://api.github.com/users/tclem/followers",
+  "following_url": "https://api.github.com/users/tclem/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tclem/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tclem/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tclem/subscriptions",
+  "organizations_url": "https://api.github.com/users/tclem/orgs",
+  "repos_url": "https://api.github.com/users/tclem/repos",
+  "events_url": "https://api.github.com/users/tclem/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tclem/received_events",
+  "type": "User",
+  "site_admin": true
+}

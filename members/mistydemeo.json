@@ -1,0 +1,20 @@
+{
+  "login": "mistydemeo",
+  "id": 780485,
+  "node_id": "MDQ6VXNlcjc4MDQ4NQ==",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/780485?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mistydemeo",
+  "html_url": "https://github.com/mistydemeo",
+  "followers_url": "https://api.github.com/users/mistydemeo/followers",
+  "following_url": "https://api.github.com/users/mistydemeo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mistydemeo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mistydemeo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mistydemeo/subscriptions",
+  "organizations_url": "https://api.github.com/users/mistydemeo/orgs",
+  "repos_url": "https://api.github.com/users/mistydemeo/repos",
+  "events_url": "https://api.github.com/users/mistydemeo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mistydemeo/received_events",
+  "type": "User",
+  "site_admin": true
+}

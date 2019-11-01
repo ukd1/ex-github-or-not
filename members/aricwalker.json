@@ -1,0 +1,20 @@
+{
+  "login": "aricwalker",
+  "id": 212087,
+  "node_id": "MDQ6VXNlcjIxMjA4Nw==",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/212087?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/aricwalker",
+  "html_url": "https://github.com/aricwalker",
+  "followers_url": "https://api.github.com/users/aricwalker/followers",
+  "following_url": "https://api.github.com/users/aricwalker/following{/other_user}",
+  "gists_url": "https://api.github.com/users/aricwalker/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/aricwalker/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/aricwalker/subscriptions",
+  "organizations_url": "https://api.github.com/users/aricwalker/orgs",
+  "repos_url": "https://api.github.com/users/aricwalker/repos",
+  "events_url": "https://api.github.com/users/aricwalker/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/aricwalker/received_events",
+  "type": "User",
+  "site_admin": true
+}

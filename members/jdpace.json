@@ -1,0 +1,20 @@
+{
+  "login": "jdpace",
+  "id": 2513,
+  "node_id": "MDQ6VXNlcjI1MTM=",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/2513?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jdpace",
+  "html_url": "https://github.com/jdpace",
+  "followers_url": "https://api.github.com/users/jdpace/followers",
+  "following_url": "https://api.github.com/users/jdpace/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jdpace/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jdpace/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jdpace/subscriptions",
+  "organizations_url": "https://api.github.com/users/jdpace/orgs",
+  "repos_url": "https://api.github.com/users/jdpace/repos",
+  "events_url": "https://api.github.com/users/jdpace/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jdpace/received_events",
+  "type": "User",
+  "site_admin": true
+}

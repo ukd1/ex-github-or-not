@@ -1,0 +1,20 @@
+{
+  "login": "FawazFarid",
+  "id": 17722450,
+  "node_id": "MDQ6VXNlcjE3NzIyNDUw",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/17722450?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/FawazFarid",
+  "html_url": "https://github.com/FawazFarid",
+  "followers_url": "https://api.github.com/users/FawazFarid/followers",
+  "following_url": "https://api.github.com/users/FawazFarid/following{/other_user}",
+  "gists_url": "https://api.github.com/users/FawazFarid/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/FawazFarid/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/FawazFarid/subscriptions",
+  "organizations_url": "https://api.github.com/users/FawazFarid/orgs",
+  "repos_url": "https://api.github.com/users/FawazFarid/repos",
+  "events_url": "https://api.github.com/users/FawazFarid/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/FawazFarid/received_events",
+  "type": "User",
+  "site_admin": false
+}

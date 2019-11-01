@@ -1,0 +1,20 @@
+{
+  "login": "rubiojr",
+  "id": 10998,
+  "node_id": "MDQ6VXNlcjEwOTk4",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/10998?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rubiojr",
+  "html_url": "https://github.com/rubiojr",
+  "followers_url": "https://api.github.com/users/rubiojr/followers",
+  "following_url": "https://api.github.com/users/rubiojr/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rubiojr/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rubiojr/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rubiojr/subscriptions",
+  "organizations_url": "https://api.github.com/users/rubiojr/orgs",
+  "repos_url": "https://api.github.com/users/rubiojr/repos",
+  "events_url": "https://api.github.com/users/rubiojr/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rubiojr/received_events",
+  "type": "User",
+  "site_admin": true
+}

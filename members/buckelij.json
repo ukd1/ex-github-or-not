@@ -1,0 +1,20 @@
+{
+  "login": "buckelij",
+  "id": 371055,
+  "node_id": "MDQ6VXNlcjM3MTA1NQ==",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/371055?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/buckelij",
+  "html_url": "https://github.com/buckelij",
+  "followers_url": "https://api.github.com/users/buckelij/followers",
+  "following_url": "https://api.github.com/users/buckelij/following{/other_user}",
+  "gists_url": "https://api.github.com/users/buckelij/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/buckelij/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/buckelij/subscriptions",
+  "organizations_url": "https://api.github.com/users/buckelij/orgs",
+  "repos_url": "https://api.github.com/users/buckelij/repos",
+  "events_url": "https://api.github.com/users/buckelij/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/buckelij/received_events",
+  "type": "User",
+  "site_admin": true
+}

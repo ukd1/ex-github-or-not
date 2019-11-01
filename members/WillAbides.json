@@ -1,0 +1,20 @@
+{
+  "login": "WillAbides",
+  "id": 233500,
+  "node_id": "MDQ6VXNlcjIzMzUwMA==",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/233500?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/WillAbides",
+  "html_url": "https://github.com/WillAbides",
+  "followers_url": "https://api.github.com/users/WillAbides/followers",
+  "following_url": "https://api.github.com/users/WillAbides/following{/other_user}",
+  "gists_url": "https://api.github.com/users/WillAbides/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/WillAbides/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/WillAbides/subscriptions",
+  "organizations_url": "https://api.github.com/users/WillAbides/orgs",
+  "repos_url": "https://api.github.com/users/WillAbides/repos",
+  "events_url": "https://api.github.com/users/WillAbides/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/WillAbides/received_events",
+  "type": "User",
+  "site_admin": true
+}

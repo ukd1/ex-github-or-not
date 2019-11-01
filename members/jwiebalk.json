@@ -1,0 +1,20 @@
+{
+  "login": "jwiebalk",
+  "id": 421630,
+  "node_id": "MDQ6VXNlcjQyMTYzMA==",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/421630?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jwiebalk",
+  "html_url": "https://github.com/jwiebalk",
+  "followers_url": "https://api.github.com/users/jwiebalk/followers",
+  "following_url": "https://api.github.com/users/jwiebalk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jwiebalk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jwiebalk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jwiebalk/subscriptions",
+  "organizations_url": "https://api.github.com/users/jwiebalk/orgs",
+  "repos_url": "https://api.github.com/users/jwiebalk/repos",
+  "events_url": "https://api.github.com/users/jwiebalk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jwiebalk/received_events",
+  "type": "User",
+  "site_admin": true
+}

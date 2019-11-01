@@ -1,0 +1,20 @@
+{
+  "login": "kaylangan",
+  "id": 20052233,
+  "node_id": "MDQ6VXNlcjIwMDUyMjMz",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/20052233?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/kaylangan",
+  "html_url": "https://github.com/kaylangan",
+  "followers_url": "https://api.github.com/users/kaylangan/followers",
+  "following_url": "https://api.github.com/users/kaylangan/following{/other_user}",
+  "gists_url": "https://api.github.com/users/kaylangan/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/kaylangan/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/kaylangan/subscriptions",
+  "organizations_url": "https://api.github.com/users/kaylangan/orgs",
+  "repos_url": "https://api.github.com/users/kaylangan/repos",
+  "events_url": "https://api.github.com/users/kaylangan/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/kaylangan/received_events",
+  "type": "User",
+  "site_admin": true
+}

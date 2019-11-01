@@ -1,0 +1,20 @@
+{
+  "login": "pravipati",
+  "id": 410195,
+  "node_id": "MDQ6VXNlcjQxMDE5NQ==",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/410195?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pravipati",
+  "html_url": "https://github.com/pravipati",
+  "followers_url": "https://api.github.com/users/pravipati/followers",
+  "following_url": "https://api.github.com/users/pravipati/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pravipati/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pravipati/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pravipati/subscriptions",
+  "organizations_url": "https://api.github.com/users/pravipati/orgs",
+  "repos_url": "https://api.github.com/users/pravipati/repos",
+  "events_url": "https://api.github.com/users/pravipati/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pravipati/received_events",
+  "type": "User",
+  "site_admin": true
+}

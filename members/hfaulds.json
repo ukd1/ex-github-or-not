@@ -1,0 +1,20 @@
+{
+  "login": "hfaulds",
+  "id": 645812,
+  "node_id": "MDQ6VXNlcjY0NTgxMg==",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/645812?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hfaulds",
+  "html_url": "https://github.com/hfaulds",
+  "followers_url": "https://api.github.com/users/hfaulds/followers",
+  "following_url": "https://api.github.com/users/hfaulds/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hfaulds/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hfaulds/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hfaulds/subscriptions",
+  "organizations_url": "https://api.github.com/users/hfaulds/orgs",
+  "repos_url": "https://api.github.com/users/hfaulds/repos",
+  "events_url": "https://api.github.com/users/hfaulds/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hfaulds/received_events",
+  "type": "User",
+  "site_admin": true
+}

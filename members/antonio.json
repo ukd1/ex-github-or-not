@@ -1,0 +1,20 @@
+{
+  "login": "antonio",
+  "id": 17516,
+  "node_id": "MDQ6VXNlcjE3NTE2",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/17516?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/antonio",
+  "html_url": "https://github.com/antonio",
+  "followers_url": "https://api.github.com/users/antonio/followers",
+  "following_url": "https://api.github.com/users/antonio/following{/other_user}",
+  "gists_url": "https://api.github.com/users/antonio/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/antonio/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/antonio/subscriptions",
+  "organizations_url": "https://api.github.com/users/antonio/orgs",
+  "repos_url": "https://api.github.com/users/antonio/repos",
+  "events_url": "https://api.github.com/users/antonio/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/antonio/received_events",
+  "type": "User",
+  "site_admin": true
+}

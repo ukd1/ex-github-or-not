@@ -1,0 +1,20 @@
+{
+  "login": "tonyjaramillo",
+  "id": 1300064,
+  "node_id": "MDQ6VXNlcjEzMDAwNjQ=",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1300064?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tonyjaramillo",
+  "html_url": "https://github.com/tonyjaramillo",
+  "followers_url": "https://api.github.com/users/tonyjaramillo/followers",
+  "following_url": "https://api.github.com/users/tonyjaramillo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tonyjaramillo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tonyjaramillo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tonyjaramillo/subscriptions",
+  "organizations_url": "https://api.github.com/users/tonyjaramillo/orgs",
+  "repos_url": "https://api.github.com/users/tonyjaramillo/repos",
+  "events_url": "https://api.github.com/users/tonyjaramillo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tonyjaramillo/received_events",
+  "type": "User",
+  "site_admin": true
+}

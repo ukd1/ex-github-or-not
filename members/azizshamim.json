@@ -1,0 +1,20 @@
+{
+  "login": "azizshamim",
+  "id": 30761,
+  "node_id": "MDQ6VXNlcjMwNzYx",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/30761?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/azizshamim",
+  "html_url": "https://github.com/azizshamim",
+  "followers_url": "https://api.github.com/users/azizshamim/followers",
+  "following_url": "https://api.github.com/users/azizshamim/following{/other_user}",
+  "gists_url": "https://api.github.com/users/azizshamim/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/azizshamim/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/azizshamim/subscriptions",
+  "organizations_url": "https://api.github.com/users/azizshamim/orgs",
+  "repos_url": "https://api.github.com/users/azizshamim/repos",
+  "events_url": "https://api.github.com/users/azizshamim/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/azizshamim/received_events",
+  "type": "User",
+  "site_admin": true
+}

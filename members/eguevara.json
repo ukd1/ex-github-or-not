@@ -1,0 +1,20 @@
+{
+  "login": "eguevara",
+  "id": 1430437,
+  "node_id": "MDQ6VXNlcjE0MzA0Mzc=",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1430437?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/eguevara",
+  "html_url": "https://github.com/eguevara",
+  "followers_url": "https://api.github.com/users/eguevara/followers",
+  "following_url": "https://api.github.com/users/eguevara/following{/other_user}",
+  "gists_url": "https://api.github.com/users/eguevara/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/eguevara/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/eguevara/subscriptions",
+  "organizations_url": "https://api.github.com/users/eguevara/orgs",
+  "repos_url": "https://api.github.com/users/eguevara/repos",
+  "events_url": "https://api.github.com/users/eguevara/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/eguevara/received_events",
+  "type": "User",
+  "site_admin": true
+}

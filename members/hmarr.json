@@ -1,0 +1,20 @@
+{
+  "login": "hmarr",
+  "id": 110275,
+  "node_id": "MDQ6VXNlcjExMDI3NQ==",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/110275?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hmarr",
+  "html_url": "https://github.com/hmarr",
+  "followers_url": "https://api.github.com/users/hmarr/followers",
+  "following_url": "https://api.github.com/users/hmarr/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hmarr/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hmarr/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hmarr/subscriptions",
+  "organizations_url": "https://api.github.com/users/hmarr/orgs",
+  "repos_url": "https://api.github.com/users/hmarr/repos",
+  "events_url": "https://api.github.com/users/hmarr/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hmarr/received_events",
+  "type": "User",
+  "site_admin": true
+}

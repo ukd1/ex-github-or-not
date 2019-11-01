@@ -1,0 +1,20 @@
+{
+  "login": "thechrisjohnson",
+  "id": 573727,
+  "node_id": "MDQ6VXNlcjU3MzcyNw==",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/573727?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/thechrisjohnson",
+  "html_url": "https://github.com/thechrisjohnson",
+  "followers_url": "https://api.github.com/users/thechrisjohnson/followers",
+  "following_url": "https://api.github.com/users/thechrisjohnson/following{/other_user}",
+  "gists_url": "https://api.github.com/users/thechrisjohnson/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/thechrisjohnson/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/thechrisjohnson/subscriptions",
+  "organizations_url": "https://api.github.com/users/thechrisjohnson/orgs",
+  "repos_url": "https://api.github.com/users/thechrisjohnson/repos",
+  "events_url": "https://api.github.com/users/thechrisjohnson/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/thechrisjohnson/received_events",
+  "type": "User",
+  "site_admin": true
+}

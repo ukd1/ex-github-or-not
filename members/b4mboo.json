@@ -1,0 +1,20 @@
+{
+  "login": "b4mboo",
+  "id": 72066,
+  "node_id": "MDQ6VXNlcjcyMDY2",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/72066?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/b4mboo",
+  "html_url": "https://github.com/b4mboo",
+  "followers_url": "https://api.github.com/users/b4mboo/followers",
+  "following_url": "https://api.github.com/users/b4mboo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/b4mboo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/b4mboo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/b4mboo/subscriptions",
+  "organizations_url": "https://api.github.com/users/b4mboo/orgs",
+  "repos_url": "https://api.github.com/users/b4mboo/repos",
+  "events_url": "https://api.github.com/users/b4mboo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/b4mboo/received_events",
+  "type": "User",
+  "site_admin": true
+}

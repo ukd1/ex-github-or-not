@@ -1,0 +1,20 @@
+{
+  "login": "skalnik",
+  "id": 2546,
+  "node_id": "MDQ6VXNlcjI1NDY=",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/2546?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/skalnik",
+  "html_url": "https://github.com/skalnik",
+  "followers_url": "https://api.github.com/users/skalnik/followers",
+  "following_url": "https://api.github.com/users/skalnik/following{/other_user}",
+  "gists_url": "https://api.github.com/users/skalnik/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/skalnik/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/skalnik/subscriptions",
+  "organizations_url": "https://api.github.com/users/skalnik/orgs",
+  "repos_url": "https://api.github.com/users/skalnik/repos",
+  "events_url": "https://api.github.com/users/skalnik/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/skalnik/received_events",
+  "type": "User",
+  "site_admin": true
+}

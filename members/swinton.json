@@ -1,0 +1,20 @@
+{
+  "login": "swinton",
+  "id": 27806,
+  "node_id": "MDQ6VXNlcjI3ODA2",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/27806?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/swinton",
+  "html_url": "https://github.com/swinton",
+  "followers_url": "https://api.github.com/users/swinton/followers",
+  "following_url": "https://api.github.com/users/swinton/following{/other_user}",
+  "gists_url": "https://api.github.com/users/swinton/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/swinton/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/swinton/subscriptions",
+  "organizations_url": "https://api.github.com/users/swinton/orgs",
+  "repos_url": "https://api.github.com/users/swinton/repos",
+  "events_url": "https://api.github.com/users/swinton/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/swinton/received_events",
+  "type": "User",
+  "site_admin": true
+}

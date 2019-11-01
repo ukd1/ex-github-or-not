@@ -1,0 +1,20 @@
+{
+  "login": "leereilly",
+  "id": 121322,
+  "node_id": "MDQ6VXNlcjEyMTMyMg==",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/121322?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/leereilly",
+  "html_url": "https://github.com/leereilly",
+  "followers_url": "https://api.github.com/users/leereilly/followers",
+  "following_url": "https://api.github.com/users/leereilly/following{/other_user}",
+  "gists_url": "https://api.github.com/users/leereilly/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/leereilly/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/leereilly/subscriptions",
+  "organizations_url": "https://api.github.com/users/leereilly/orgs",
+  "repos_url": "https://api.github.com/users/leereilly/repos",
+  "events_url": "https://api.github.com/users/leereilly/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/leereilly/received_events",
+  "type": "User",
+  "site_admin": true
+}

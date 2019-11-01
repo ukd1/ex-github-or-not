@@ -1,0 +1,20 @@
+{
+  "login": "ashtom",
+  "id": 70720,
+  "node_id": "MDQ6VXNlcjcwNzIw",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/70720?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ashtom",
+  "html_url": "https://github.com/ashtom",
+  "followers_url": "https://api.github.com/users/ashtom/followers",
+  "following_url": "https://api.github.com/users/ashtom/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ashtom/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ashtom/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ashtom/subscriptions",
+  "organizations_url": "https://api.github.com/users/ashtom/orgs",
+  "repos_url": "https://api.github.com/users/ashtom/repos",
+  "events_url": "https://api.github.com/users/ashtom/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ashtom/received_events",
+  "type": "User",
+  "site_admin": true
+}

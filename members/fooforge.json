@@ -1,0 +1,20 @@
+{
+  "login": "fooforge",
+  "id": 959793,
+  "node_id": "MDQ6VXNlcjk1OTc5Mw==",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/959793?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/fooforge",
+  "html_url": "https://github.com/fooforge",
+  "followers_url": "https://api.github.com/users/fooforge/followers",
+  "following_url": "https://api.github.com/users/fooforge/following{/other_user}",
+  "gists_url": "https://api.github.com/users/fooforge/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/fooforge/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/fooforge/subscriptions",
+  "organizations_url": "https://api.github.com/users/fooforge/orgs",
+  "repos_url": "https://api.github.com/users/fooforge/repos",
+  "events_url": "https://api.github.com/users/fooforge/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/fooforge/received_events",
+  "type": "User",
+  "site_admin": true
+}

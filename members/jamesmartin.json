@@ -1,0 +1,20 @@
+{
+  "login": "jamesmartin",
+  "id": 75904,
+  "node_id": "MDQ6VXNlcjc1OTA0",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/75904?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jamesmartin",
+  "html_url": "https://github.com/jamesmartin",
+  "followers_url": "https://api.github.com/users/jamesmartin/followers",
+  "following_url": "https://api.github.com/users/jamesmartin/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jamesmartin/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jamesmartin/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jamesmartin/subscriptions",
+  "organizations_url": "https://api.github.com/users/jamesmartin/orgs",
+  "repos_url": "https://api.github.com/users/jamesmartin/repos",
+  "events_url": "https://api.github.com/users/jamesmartin/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jamesmartin/received_events",
+  "type": "User",
+  "site_admin": true
+}

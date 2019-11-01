@@ -1,0 +1,20 @@
+{
+  "login": "LindseyB",
+  "id": 33750,
+  "node_id": "MDQ6VXNlcjMzNzUw",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/33750?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/LindseyB",
+  "html_url": "https://github.com/LindseyB",
+  "followers_url": "https://api.github.com/users/LindseyB/followers",
+  "following_url": "https://api.github.com/users/LindseyB/following{/other_user}",
+  "gists_url": "https://api.github.com/users/LindseyB/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/LindseyB/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/LindseyB/subscriptions",
+  "organizations_url": "https://api.github.com/users/LindseyB/orgs",
+  "repos_url": "https://api.github.com/users/LindseyB/repos",
+  "events_url": "https://api.github.com/users/LindseyB/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/LindseyB/received_events",
+  "type": "User",
+  "site_admin": true
+}

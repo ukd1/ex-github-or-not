@@ -1,0 +1,20 @@
+{
+  "login": "ethomson",
+  "id": 1130014,
+  "node_id": "MDQ6VXNlcjExMzAwMTQ=",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1130014?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ethomson",
+  "html_url": "https://github.com/ethomson",
+  "followers_url": "https://api.github.com/users/ethomson/followers",
+  "following_url": "https://api.github.com/users/ethomson/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ethomson/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ethomson/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ethomson/subscriptions",
+  "organizations_url": "https://api.github.com/users/ethomson/orgs",
+  "repos_url": "https://api.github.com/users/ethomson/repos",
+  "events_url": "https://api.github.com/users/ethomson/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ethomson/received_events",
+  "type": "User",
+  "site_admin": true
+}

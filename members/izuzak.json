@@ -1,0 +1,20 @@
+{
+  "login": "izuzak",
+  "id": 38924,
+  "node_id": "MDQ6VXNlcjM4OTI0",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/38924?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/izuzak",
+  "html_url": "https://github.com/izuzak",
+  "followers_url": "https://api.github.com/users/izuzak/followers",
+  "following_url": "https://api.github.com/users/izuzak/following{/other_user}",
+  "gists_url": "https://api.github.com/users/izuzak/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/izuzak/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/izuzak/subscriptions",
+  "organizations_url": "https://api.github.com/users/izuzak/orgs",
+  "repos_url": "https://api.github.com/users/izuzak/repos",
+  "events_url": "https://api.github.com/users/izuzak/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/izuzak/received_events",
+  "type": "User",
+  "site_admin": true
+}

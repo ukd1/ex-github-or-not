@@ -1,0 +1,20 @@
+{
+  "login": "mdo",
+  "id": 98681,
+  "node_id": "MDQ6VXNlcjk4Njgx",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mdo",
+  "html_url": "https://github.com/mdo",
+  "followers_url": "https://api.github.com/users/mdo/followers",
+  "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+  "organizations_url": "https://api.github.com/users/mdo/orgs",
+  "repos_url": "https://api.github.com/users/mdo/repos",
+  "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mdo/received_events",
+  "type": "User",
+  "site_admin": true
+}

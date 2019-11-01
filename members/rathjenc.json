@@ -1,0 +1,20 @@
+{
+  "login": "rathjenc",
+  "id": 4690592,
+  "node_id": "MDQ6VXNlcjQ2OTA1OTI=",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/4690592?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rathjenc",
+  "html_url": "https://github.com/rathjenc",
+  "followers_url": "https://api.github.com/users/rathjenc/followers",
+  "following_url": "https://api.github.com/users/rathjenc/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rathjenc/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rathjenc/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rathjenc/subscriptions",
+  "organizations_url": "https://api.github.com/users/rathjenc/orgs",
+  "repos_url": "https://api.github.com/users/rathjenc/repos",
+  "events_url": "https://api.github.com/users/rathjenc/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rathjenc/received_events",
+  "type": "User",
+  "site_admin": true
+}

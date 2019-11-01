@@ -1,0 +1,20 @@
+{
+  "login": "laserlemon",
+  "id": 34264,
+  "node_id": "MDQ6VXNlcjM0MjY0",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/34264?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/laserlemon",
+  "html_url": "https://github.com/laserlemon",
+  "followers_url": "https://api.github.com/users/laserlemon/followers",
+  "following_url": "https://api.github.com/users/laserlemon/following{/other_user}",
+  "gists_url": "https://api.github.com/users/laserlemon/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/laserlemon/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/laserlemon/subscriptions",
+  "organizations_url": "https://api.github.com/users/laserlemon/orgs",
+  "repos_url": "https://api.github.com/users/laserlemon/repos",
+  "events_url": "https://api.github.com/users/laserlemon/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/laserlemon/received_events",
+  "type": "User",
+  "site_admin": true
+}

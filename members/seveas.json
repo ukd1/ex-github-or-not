@@ -1,0 +1,20 @@
+{
+  "login": "seveas",
+  "id": 200649,
+  "node_id": "MDQ6VXNlcjIwMDY0OQ==",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/200649?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/seveas",
+  "html_url": "https://github.com/seveas",
+  "followers_url": "https://api.github.com/users/seveas/followers",
+  "following_url": "https://api.github.com/users/seveas/following{/other_user}",
+  "gists_url": "https://api.github.com/users/seveas/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/seveas/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/seveas/subscriptions",
+  "organizations_url": "https://api.github.com/users/seveas/orgs",
+  "repos_url": "https://api.github.com/users/seveas/repos",
+  "events_url": "https://api.github.com/users/seveas/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/seveas/received_events",
+  "type": "User",
+  "site_admin": true
+}

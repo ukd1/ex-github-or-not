@@ -1,0 +1,20 @@
+{
+  "login": "groundwater",
+  "id": 538488,
+  "node_id": "MDQ6VXNlcjUzODQ4OA==",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/538488?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/groundwater",
+  "html_url": "https://github.com/groundwater",
+  "followers_url": "https://api.github.com/users/groundwater/followers",
+  "following_url": "https://api.github.com/users/groundwater/following{/other_user}",
+  "gists_url": "https://api.github.com/users/groundwater/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/groundwater/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/groundwater/subscriptions",
+  "organizations_url": "https://api.github.com/users/groundwater/orgs",
+  "repos_url": "https://api.github.com/users/groundwater/repos",
+  "events_url": "https://api.github.com/users/groundwater/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/groundwater/received_events",
+  "type": "User",
+  "site_admin": true
+}

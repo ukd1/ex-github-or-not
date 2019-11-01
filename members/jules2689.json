@@ -1,0 +1,20 @@
+{
+  "login": "jules2689",
+  "id": 3074765,
+  "node_id": "MDQ6VXNlcjMwNzQ3NjU=",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/3074765?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jules2689",
+  "html_url": "https://github.com/jules2689",
+  "followers_url": "https://api.github.com/users/jules2689/followers",
+  "following_url": "https://api.github.com/users/jules2689/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jules2689/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jules2689/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jules2689/subscriptions",
+  "organizations_url": "https://api.github.com/users/jules2689/orgs",
+  "repos_url": "https://api.github.com/users/jules2689/repos",
+  "events_url": "https://api.github.com/users/jules2689/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jules2689/received_events",
+  "type": "User",
+  "site_admin": true
+}

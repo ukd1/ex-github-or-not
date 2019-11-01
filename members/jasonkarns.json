@@ -1,0 +1,20 @@
+{
+  "login": "jasonkarns",
+  "id": 119972,
+  "node_id": "MDQ6VXNlcjExOTk3Mg==",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/119972?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jasonkarns",
+  "html_url": "https://github.com/jasonkarns",
+  "followers_url": "https://api.github.com/users/jasonkarns/followers",
+  "following_url": "https://api.github.com/users/jasonkarns/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jasonkarns/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jasonkarns/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jasonkarns/subscriptions",
+  "organizations_url": "https://api.github.com/users/jasonkarns/orgs",
+  "repos_url": "https://api.github.com/users/jasonkarns/repos",
+  "events_url": "https://api.github.com/users/jasonkarns/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jasonkarns/received_events",
+  "type": "User",
+  "site_admin": false
+}

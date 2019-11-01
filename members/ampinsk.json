@@ -1,0 +1,20 @@
+{
+  "login": "ampinsk",
+  "id": 10404068,
+  "node_id": "MDQ6VXNlcjEwNDA0MDY4",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/10404068?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ampinsk",
+  "html_url": "https://github.com/ampinsk",
+  "followers_url": "https://api.github.com/users/ampinsk/followers",
+  "following_url": "https://api.github.com/users/ampinsk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ampinsk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ampinsk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ampinsk/subscriptions",
+  "organizations_url": "https://api.github.com/users/ampinsk/orgs",
+  "repos_url": "https://api.github.com/users/ampinsk/repos",
+  "events_url": "https://api.github.com/users/ampinsk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ampinsk/received_events",
+  "type": "User",
+  "site_admin": true
+}

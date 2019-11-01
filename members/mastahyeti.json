@@ -1,0 +1,20 @@
+{
+  "login": "mastahyeti",
+  "id": 1144197,
+  "node_id": "MDQ6VXNlcjExNDQxOTc=",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1144197?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mastahyeti",
+  "html_url": "https://github.com/mastahyeti",
+  "followers_url": "https://api.github.com/users/mastahyeti/followers",
+  "following_url": "https://api.github.com/users/mastahyeti/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mastahyeti/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mastahyeti/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mastahyeti/subscriptions",
+  "organizations_url": "https://api.github.com/users/mastahyeti/orgs",
+  "repos_url": "https://api.github.com/users/mastahyeti/repos",
+  "events_url": "https://api.github.com/users/mastahyeti/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mastahyeti/received_events",
+  "type": "User",
+  "site_admin": true
+}

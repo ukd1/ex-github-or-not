@@ -1,0 +1,20 @@
+{
+  "login": "jordanmccullough",
+  "id": 352082,
+  "node_id": "MDQ6VXNlcjM1MjA4Mg==",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/352082?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jordanmccullough",
+  "html_url": "https://github.com/jordanmccullough",
+  "followers_url": "https://api.github.com/users/jordanmccullough/followers",
+  "following_url": "https://api.github.com/users/jordanmccullough/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jordanmccullough/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jordanmccullough/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jordanmccullough/subscriptions",
+  "organizations_url": "https://api.github.com/users/jordanmccullough/orgs",
+  "repos_url": "https://api.github.com/users/jordanmccullough/repos",
+  "events_url": "https://api.github.com/users/jordanmccullough/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jordanmccullough/received_events",
+  "type": "User",
+  "site_admin": true
+}

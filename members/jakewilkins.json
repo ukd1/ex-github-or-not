@@ -1,0 +1,20 @@
+{
+  "login": "jakewilkins",
+  "id": 19231792,
+  "node_id": "MDQ6VXNlcjE5MjMxNzky",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/19231792?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jakewilkins",
+  "html_url": "https://github.com/jakewilkins",
+  "followers_url": "https://api.github.com/users/jakewilkins/followers",
+  "following_url": "https://api.github.com/users/jakewilkins/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jakewilkins/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jakewilkins/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jakewilkins/subscriptions",
+  "organizations_url": "https://api.github.com/users/jakewilkins/orgs",
+  "repos_url": "https://api.github.com/users/jakewilkins/repos",
+  "events_url": "https://api.github.com/users/jakewilkins/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jakewilkins/received_events",
+  "type": "User",
+  "site_admin": true
+}

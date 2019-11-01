@@ -1,0 +1,20 @@
+{
+  "login": "tma",
+  "id": 4719,
+  "node_id": "MDQ6VXNlcjQ3MTk=",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/4719?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/tma",
+  "html_url": "https://github.com/tma",
+  "followers_url": "https://api.github.com/users/tma/followers",
+  "following_url": "https://api.github.com/users/tma/following{/other_user}",
+  "gists_url": "https://api.github.com/users/tma/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/tma/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/tma/subscriptions",
+  "organizations_url": "https://api.github.com/users/tma/orgs",
+  "repos_url": "https://api.github.com/users/tma/repos",
+  "events_url": "https://api.github.com/users/tma/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/tma/received_events",
+  "type": "User",
+  "site_admin": true
+}

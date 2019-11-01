@@ -1,0 +1,20 @@
+{
+  "login": "iolsen",
+  "id": 553742,
+  "node_id": "MDQ6VXNlcjU1Mzc0Mg==",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/553742?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/iolsen",
+  "html_url": "https://github.com/iolsen",
+  "followers_url": "https://api.github.com/users/iolsen/followers",
+  "following_url": "https://api.github.com/users/iolsen/following{/other_user}",
+  "gists_url": "https://api.github.com/users/iolsen/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/iolsen/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/iolsen/subscriptions",
+  "organizations_url": "https://api.github.com/users/iolsen/orgs",
+  "repos_url": "https://api.github.com/users/iolsen/repos",
+  "events_url": "https://api.github.com/users/iolsen/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/iolsen/received_events",
+  "type": "User",
+  "site_admin": true
+}

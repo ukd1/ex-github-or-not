@@ -1,0 +1,20 @@
+{
+  "login": "broccolini",
+  "id": 334891,
+  "node_id": "MDQ6VXNlcjMzNDg5MQ==",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/334891?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/broccolini",
+  "html_url": "https://github.com/broccolini",
+  "followers_url": "https://api.github.com/users/broccolini/followers",
+  "following_url": "https://api.github.com/users/broccolini/following{/other_user}",
+  "gists_url": "https://api.github.com/users/broccolini/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/broccolini/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/broccolini/subscriptions",
+  "organizations_url": "https://api.github.com/users/broccolini/orgs",
+  "repos_url": "https://api.github.com/users/broccolini/repos",
+  "events_url": "https://api.github.com/users/broccolini/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/broccolini/received_events",
+  "type": "User",
+  "site_admin": true
+}

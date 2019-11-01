@@ -1,0 +1,20 @@
+{
+  "login": "skottler",
+  "id": 579876,
+  "node_id": "MDQ6VXNlcjU3OTg3Ng==",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/579876?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/skottler",
+  "html_url": "https://github.com/skottler",
+  "followers_url": "https://api.github.com/users/skottler/followers",
+  "following_url": "https://api.github.com/users/skottler/following{/other_user}",
+  "gists_url": "https://api.github.com/users/skottler/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/skottler/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/skottler/subscriptions",
+  "organizations_url": "https://api.github.com/users/skottler/orgs",
+  "repos_url": "https://api.github.com/users/skottler/repos",
+  "events_url": "https://api.github.com/users/skottler/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/skottler/received_events",
+  "type": "User",
+  "site_admin": true
+}

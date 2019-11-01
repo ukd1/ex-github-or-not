@@ -1,0 +1,20 @@
+{
+  "login": "seejohnrun",
+  "id": 64965,
+  "node_id": "MDQ6VXNlcjY0OTY1",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/64965?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/seejohnrun",
+  "html_url": "https://github.com/seejohnrun",
+  "followers_url": "https://api.github.com/users/seejohnrun/followers",
+  "following_url": "https://api.github.com/users/seejohnrun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/seejohnrun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/seejohnrun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/seejohnrun/subscriptions",
+  "organizations_url": "https://api.github.com/users/seejohnrun/orgs",
+  "repos_url": "https://api.github.com/users/seejohnrun/repos",
+  "events_url": "https://api.github.com/users/seejohnrun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/seejohnrun/received_events",
+  "type": "User",
+  "site_admin": true
+}

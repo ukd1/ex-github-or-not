@@ -1,0 +1,20 @@
+{
+  "login": "robrix",
+  "id": 59671,
+  "node_id": "MDQ6VXNlcjU5Njcx",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/59671?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/robrix",
+  "html_url": "https://github.com/robrix",
+  "followers_url": "https://api.github.com/users/robrix/followers",
+  "following_url": "https://api.github.com/users/robrix/following{/other_user}",
+  "gists_url": "https://api.github.com/users/robrix/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/robrix/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/robrix/subscriptions",
+  "organizations_url": "https://api.github.com/users/robrix/orgs",
+  "repos_url": "https://api.github.com/users/robrix/repos",
+  "events_url": "https://api.github.com/users/robrix/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/robrix/received_events",
+  "type": "User",
+  "site_admin": true
+}

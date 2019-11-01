@@ -1,0 +1,20 @@
+{
+  "login": "vmg",
+  "id": 42793,
+  "node_id": "MDQ6VXNlcjQyNzkz",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/42793?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/vmg",
+  "html_url": "https://github.com/vmg",
+  "followers_url": "https://api.github.com/users/vmg/followers",
+  "following_url": "https://api.github.com/users/vmg/following{/other_user}",
+  "gists_url": "https://api.github.com/users/vmg/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/vmg/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/vmg/subscriptions",
+  "organizations_url": "https://api.github.com/users/vmg/orgs",
+  "repos_url": "https://api.github.com/users/vmg/repos",
+  "events_url": "https://api.github.com/users/vmg/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/vmg/received_events",
+  "type": "User",
+  "site_admin": true
+}

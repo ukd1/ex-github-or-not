@@ -1,0 +1,20 @@
+{
+  "login": "koddsson",
+  "id": 318208,
+  "node_id": "MDQ6VXNlcjMxODIwOA==",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/318208?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/koddsson",
+  "html_url": "https://github.com/koddsson",
+  "followers_url": "https://api.github.com/users/koddsson/followers",
+  "following_url": "https://api.github.com/users/koddsson/following{/other_user}",
+  "gists_url": "https://api.github.com/users/koddsson/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/koddsson/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/koddsson/subscriptions",
+  "organizations_url": "https://api.github.com/users/koddsson/orgs",
+  "repos_url": "https://api.github.com/users/koddsson/repos",
+  "events_url": "https://api.github.com/users/koddsson/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/koddsson/received_events",
+  "type": "User",
+  "site_admin": true
+}

@@ -1,0 +1,20 @@
+{
+  "login": "frconil",
+  "id": 2533508,
+  "node_id": "MDQ6VXNlcjI1MzM1MDg=",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/2533508?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/frconil",
+  "html_url": "https://github.com/frconil",
+  "followers_url": "https://api.github.com/users/frconil/followers",
+  "following_url": "https://api.github.com/users/frconil/following{/other_user}",
+  "gists_url": "https://api.github.com/users/frconil/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/frconil/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/frconil/subscriptions",
+  "organizations_url": "https://api.github.com/users/frconil/orgs",
+  "repos_url": "https://api.github.com/users/frconil/repos",
+  "events_url": "https://api.github.com/users/frconil/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/frconil/received_events",
+  "type": "User",
+  "site_admin": true
+}

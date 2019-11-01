@@ -1,0 +1,20 @@
+{
+  "login": "arthurschreiber",
+  "id": 2195,
+  "node_id": "MDQ6VXNlcjIxOTU=",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/2195?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/arthurschreiber",
+  "html_url": "https://github.com/arthurschreiber",
+  "followers_url": "https://api.github.com/users/arthurschreiber/followers",
+  "following_url": "https://api.github.com/users/arthurschreiber/following{/other_user}",
+  "gists_url": "https://api.github.com/users/arthurschreiber/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/arthurschreiber/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/arthurschreiber/subscriptions",
+  "organizations_url": "https://api.github.com/users/arthurschreiber/orgs",
+  "repos_url": "https://api.github.com/users/arthurschreiber/repos",
+  "events_url": "https://api.github.com/users/arthurschreiber/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/arthurschreiber/received_events",
+  "type": "User",
+  "site_admin": true
+}

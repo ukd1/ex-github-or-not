@@ -1,0 +1,20 @@
+{
+  "login": "acadavid",
+  "id": 12845,
+  "node_id": "MDQ6VXNlcjEyODQ1",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/12845?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/acadavid",
+  "html_url": "https://github.com/acadavid",
+  "followers_url": "https://api.github.com/users/acadavid/followers",
+  "following_url": "https://api.github.com/users/acadavid/following{/other_user}",
+  "gists_url": "https://api.github.com/users/acadavid/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/acadavid/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/acadavid/subscriptions",
+  "organizations_url": "https://api.github.com/users/acadavid/orgs",
+  "repos_url": "https://api.github.com/users/acadavid/repos",
+  "events_url": "https://api.github.com/users/acadavid/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/acadavid/received_events",
+  "type": "User",
+  "site_admin": true
+}

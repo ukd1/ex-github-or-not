@@ -1,0 +1,20 @@
+{
+  "login": "mscoutermarsh",
+  "id": 155044,
+  "node_id": "MDQ6VXNlcjE1NTA0NA==",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/155044?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mscoutermarsh",
+  "html_url": "https://github.com/mscoutermarsh",
+  "followers_url": "https://api.github.com/users/mscoutermarsh/followers",
+  "following_url": "https://api.github.com/users/mscoutermarsh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mscoutermarsh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mscoutermarsh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mscoutermarsh/subscriptions",
+  "organizations_url": "https://api.github.com/users/mscoutermarsh/orgs",
+  "repos_url": "https://api.github.com/users/mscoutermarsh/repos",
+  "events_url": "https://api.github.com/users/mscoutermarsh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mscoutermarsh/received_events",
+  "type": "User",
+  "site_admin": true
+}

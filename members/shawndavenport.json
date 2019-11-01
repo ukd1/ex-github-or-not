@@ -1,0 +1,20 @@
+{
+  "login": "shawndavenport",
+  "id": 208016,
+  "node_id": "MDQ6VXNlcjIwODAxNg==",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/208016?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shawndavenport",
+  "html_url": "https://github.com/shawndavenport",
+  "followers_url": "https://api.github.com/users/shawndavenport/followers",
+  "following_url": "https://api.github.com/users/shawndavenport/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shawndavenport/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shawndavenport/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shawndavenport/subscriptions",
+  "organizations_url": "https://api.github.com/users/shawndavenport/orgs",
+  "repos_url": "https://api.github.com/users/shawndavenport/repos",
+  "events_url": "https://api.github.com/users/shawndavenport/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shawndavenport/received_events",
+  "type": "User",
+  "site_admin": true
+}

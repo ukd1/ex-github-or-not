@@ -1,0 +1,20 @@
+{
+  "login": "joshvera",
+  "id": 24247,
+  "node_id": "MDQ6VXNlcjI0MjQ3",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/24247?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/joshvera",
+  "html_url": "https://github.com/joshvera",
+  "followers_url": "https://api.github.com/users/joshvera/followers",
+  "following_url": "https://api.github.com/users/joshvera/following{/other_user}",
+  "gists_url": "https://api.github.com/users/joshvera/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/joshvera/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/joshvera/subscriptions",
+  "organizations_url": "https://api.github.com/users/joshvera/orgs",
+  "repos_url": "https://api.github.com/users/joshvera/repos",
+  "events_url": "https://api.github.com/users/joshvera/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/joshvera/received_events",
+  "type": "User",
+  "site_admin": true
+}

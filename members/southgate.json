@@ -1,0 +1,20 @@
+{
+  "login": "southgate",
+  "id": 52830,
+  "node_id": "MDQ6VXNlcjUyODMw",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/52830?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/southgate",
+  "html_url": "https://github.com/southgate",
+  "followers_url": "https://api.github.com/users/southgate/followers",
+  "following_url": "https://api.github.com/users/southgate/following{/other_user}",
+  "gists_url": "https://api.github.com/users/southgate/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/southgate/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/southgate/subscriptions",
+  "organizations_url": "https://api.github.com/users/southgate/orgs",
+  "repos_url": "https://api.github.com/users/southgate/repos",
+  "events_url": "https://api.github.com/users/southgate/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/southgate/received_events",
+  "type": "User",
+  "site_admin": true
+}

@@ -1,0 +1,20 @@
+{
+  "login": "JamesMGreene",
+  "id": 417751,
+  "node_id": "MDQ6VXNlcjQxNzc1MQ==",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/417751?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/JamesMGreene",
+  "html_url": "https://github.com/JamesMGreene",
+  "followers_url": "https://api.github.com/users/JamesMGreene/followers",
+  "following_url": "https://api.github.com/users/JamesMGreene/following{/other_user}",
+  "gists_url": "https://api.github.com/users/JamesMGreene/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/JamesMGreene/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/JamesMGreene/subscriptions",
+  "organizations_url": "https://api.github.com/users/JamesMGreene/orgs",
+  "repos_url": "https://api.github.com/users/JamesMGreene/repos",
+  "events_url": "https://api.github.com/users/JamesMGreene/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/JamesMGreene/received_events",
+  "type": "User",
+  "site_admin": true
+}

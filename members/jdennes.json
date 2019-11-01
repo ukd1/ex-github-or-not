@@ -1,0 +1,20 @@
+{
+  "login": "jdennes",
+  "id": 65057,
+  "node_id": "MDQ6VXNlcjY1MDU3",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/65057?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jdennes",
+  "html_url": "https://github.com/jdennes",
+  "followers_url": "https://api.github.com/users/jdennes/followers",
+  "following_url": "https://api.github.com/users/jdennes/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jdennes/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jdennes/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jdennes/subscriptions",
+  "organizations_url": "https://api.github.com/users/jdennes/orgs",
+  "repos_url": "https://api.github.com/users/jdennes/repos",
+  "events_url": "https://api.github.com/users/jdennes/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jdennes/received_events",
+  "type": "User",
+  "site_admin": true
+}

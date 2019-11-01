@@ -1,0 +1,20 @@
+{
+  "login": "jeffsaracco",
+  "id": 248182,
+  "node_id": "MDQ6VXNlcjI0ODE4Mg==",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/248182?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jeffsaracco",
+  "html_url": "https://github.com/jeffsaracco",
+  "followers_url": "https://api.github.com/users/jeffsaracco/followers",
+  "following_url": "https://api.github.com/users/jeffsaracco/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jeffsaracco/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jeffsaracco/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jeffsaracco/subscriptions",
+  "organizations_url": "https://api.github.com/users/jeffsaracco/orgs",
+  "repos_url": "https://api.github.com/users/jeffsaracco/repos",
+  "events_url": "https://api.github.com/users/jeffsaracco/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jeffsaracco/received_events",
+  "type": "User",
+  "site_admin": true
+}

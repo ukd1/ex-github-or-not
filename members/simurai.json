@@ -1,0 +1,20 @@
+{
+  "login": "simurai",
+  "id": 378023,
+  "node_id": "MDQ6VXNlcjM3ODAyMw==",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/378023?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/simurai",
+  "html_url": "https://github.com/simurai",
+  "followers_url": "https://api.github.com/users/simurai/followers",
+  "following_url": "https://api.github.com/users/simurai/following{/other_user}",
+  "gists_url": "https://api.github.com/users/simurai/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/simurai/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/simurai/subscriptions",
+  "organizations_url": "https://api.github.com/users/simurai/orgs",
+  "repos_url": "https://api.github.com/users/simurai/repos",
+  "events_url": "https://api.github.com/users/simurai/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/simurai/received_events",
+  "type": "User",
+  "site_admin": true
+}

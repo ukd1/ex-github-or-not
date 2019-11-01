@@ -1,0 +1,20 @@
+{
+  "login": "spraints",
+  "id": 20158,
+  "node_id": "MDQ6VXNlcjIwMTU4",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/20158?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/spraints",
+  "html_url": "https://github.com/spraints",
+  "followers_url": "https://api.github.com/users/spraints/followers",
+  "following_url": "https://api.github.com/users/spraints/following{/other_user}",
+  "gists_url": "https://api.github.com/users/spraints/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/spraints/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/spraints/subscriptions",
+  "organizations_url": "https://api.github.com/users/spraints/orgs",
+  "repos_url": "https://api.github.com/users/spraints/repos",
+  "events_url": "https://api.github.com/users/spraints/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/spraints/received_events",
+  "type": "User",
+  "site_admin": true
+}

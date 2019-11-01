@@ -1,0 +1,20 @@
+{
+  "login": "mhp",
+  "id": 5925,
+  "node_id": "MDQ6VXNlcjU5MjU=",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/5925?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mhp",
+  "html_url": "https://github.com/mhp",
+  "followers_url": "https://api.github.com/users/mhp/followers",
+  "following_url": "https://api.github.com/users/mhp/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mhp/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mhp/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mhp/subscriptions",
+  "organizations_url": "https://api.github.com/users/mhp/orgs",
+  "repos_url": "https://api.github.com/users/mhp/repos",
+  "events_url": "https://api.github.com/users/mhp/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mhp/received_events",
+  "type": "User",
+  "site_admin": true
+}

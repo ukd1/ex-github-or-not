@@ -1,0 +1,20 @@
+{
+  "login": "strackoverflow",
+  "id": 431533,
+  "node_id": "MDQ6VXNlcjQzMTUzMw==",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/431533?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/strackoverflow",
+  "html_url": "https://github.com/strackoverflow",
+  "followers_url": "https://api.github.com/users/strackoverflow/followers",
+  "following_url": "https://api.github.com/users/strackoverflow/following{/other_user}",
+  "gists_url": "https://api.github.com/users/strackoverflow/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/strackoverflow/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/strackoverflow/subscriptions",
+  "organizations_url": "https://api.github.com/users/strackoverflow/orgs",
+  "repos_url": "https://api.github.com/users/strackoverflow/repos",
+  "events_url": "https://api.github.com/users/strackoverflow/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/strackoverflow/received_events",
+  "type": "User",
+  "site_admin": true
+}

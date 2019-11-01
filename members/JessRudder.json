@@ -1,0 +1,20 @@
+{
+  "login": "JessRudder",
+  "id": 6540763,
+  "node_id": "MDQ6VXNlcjY1NDA3NjM=",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/6540763?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/JessRudder",
+  "html_url": "https://github.com/JessRudder",
+  "followers_url": "https://api.github.com/users/JessRudder/followers",
+  "following_url": "https://api.github.com/users/JessRudder/following{/other_user}",
+  "gists_url": "https://api.github.com/users/JessRudder/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/JessRudder/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/JessRudder/subscriptions",
+  "organizations_url": "https://api.github.com/users/JessRudder/orgs",
+  "repos_url": "https://api.github.com/users/JessRudder/repos",
+  "events_url": "https://api.github.com/users/JessRudder/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/JessRudder/received_events",
+  "type": "User",
+  "site_admin": true
+}

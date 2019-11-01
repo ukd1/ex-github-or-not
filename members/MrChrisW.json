@@ -1,0 +1,20 @@
+{
+  "login": "MrChrisW",
+  "id": 5282264,
+  "node_id": "MDQ6VXNlcjUyODIyNjQ=",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/5282264?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/MrChrisW",
+  "html_url": "https://github.com/MrChrisW",
+  "followers_url": "https://api.github.com/users/MrChrisW/followers",
+  "following_url": "https://api.github.com/users/MrChrisW/following{/other_user}",
+  "gists_url": "https://api.github.com/users/MrChrisW/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/MrChrisW/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/MrChrisW/subscriptions",
+  "organizations_url": "https://api.github.com/users/MrChrisW/orgs",
+  "repos_url": "https://api.github.com/users/MrChrisW/repos",
+  "events_url": "https://api.github.com/users/MrChrisW/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/MrChrisW/received_events",
+  "type": "User",
+  "site_admin": true
+}

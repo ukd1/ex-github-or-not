@@ -1,0 +1,20 @@
+{
+  "login": "joshmgross",
+  "id": 16631042,
+  "node_id": "MDQ6VXNlcjE2NjMxMDQy",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/16631042?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/joshmgross",
+  "html_url": "https://github.com/joshmgross",
+  "followers_url": "https://api.github.com/users/joshmgross/followers",
+  "following_url": "https://api.github.com/users/joshmgross/following{/other_user}",
+  "gists_url": "https://api.github.com/users/joshmgross/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/joshmgross/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/joshmgross/subscriptions",
+  "organizations_url": "https://api.github.com/users/joshmgross/orgs",
+  "repos_url": "https://api.github.com/users/joshmgross/repos",
+  "events_url": "https://api.github.com/users/joshmgross/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/joshmgross/received_events",
+  "type": "User",
+  "site_admin": true
+}

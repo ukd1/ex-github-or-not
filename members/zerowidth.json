@@ -1,0 +1,20 @@
+{
+  "login": "zerowidth",
+  "id": 3999,
+  "node_id": "MDQ6VXNlcjM5OTk=",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/3999?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/zerowidth",
+  "html_url": "https://github.com/zerowidth",
+  "followers_url": "https://api.github.com/users/zerowidth/followers",
+  "following_url": "https://api.github.com/users/zerowidth/following{/other_user}",
+  "gists_url": "https://api.github.com/users/zerowidth/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/zerowidth/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/zerowidth/subscriptions",
+  "organizations_url": "https://api.github.com/users/zerowidth/orgs",
+  "repos_url": "https://api.github.com/users/zerowidth/repos",
+  "events_url": "https://api.github.com/users/zerowidth/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/zerowidth/received_events",
+  "type": "User",
+  "site_admin": true
+}

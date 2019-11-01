@@ -1,0 +1,20 @@
+{
+  "login": "stevecat",
+  "id": 12534592,
+  "node_id": "MDQ6VXNlcjEyNTM0NTky",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/12534592?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/stevecat",
+  "html_url": "https://github.com/stevecat",
+  "followers_url": "https://api.github.com/users/stevecat/followers",
+  "following_url": "https://api.github.com/users/stevecat/following{/other_user}",
+  "gists_url": "https://api.github.com/users/stevecat/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/stevecat/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/stevecat/subscriptions",
+  "organizations_url": "https://api.github.com/users/stevecat/orgs",
+  "repos_url": "https://api.github.com/users/stevecat/repos",
+  "events_url": "https://api.github.com/users/stevecat/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/stevecat/received_events",
+  "type": "User",
+  "site_admin": true
+}

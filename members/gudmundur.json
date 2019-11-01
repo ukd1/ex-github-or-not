@@ -1,0 +1,20 @@
+{
+  "login": "gudmundur",
+  "id": 35417,
+  "node_id": "MDQ6VXNlcjM1NDE3",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/35417?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/gudmundur",
+  "html_url": "https://github.com/gudmundur",
+  "followers_url": "https://api.github.com/users/gudmundur/followers",
+  "following_url": "https://api.github.com/users/gudmundur/following{/other_user}",
+  "gists_url": "https://api.github.com/users/gudmundur/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/gudmundur/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/gudmundur/subscriptions",
+  "organizations_url": "https://api.github.com/users/gudmundur/orgs",
+  "repos_url": "https://api.github.com/users/gudmundur/repos",
+  "events_url": "https://api.github.com/users/gudmundur/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/gudmundur/received_events",
+  "type": "User",
+  "site_admin": true
+}

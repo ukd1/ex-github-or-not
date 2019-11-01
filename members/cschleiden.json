@@ -1,0 +1,20 @@
+{
+  "login": "cschleiden",
+  "id": 2201819,
+  "node_id": "MDQ6VXNlcjIyMDE4MTk=",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/2201819?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cschleiden",
+  "html_url": "https://github.com/cschleiden",
+  "followers_url": "https://api.github.com/users/cschleiden/followers",
+  "following_url": "https://api.github.com/users/cschleiden/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cschleiden/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cschleiden/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cschleiden/subscriptions",
+  "organizations_url": "https://api.github.com/users/cschleiden/orgs",
+  "repos_url": "https://api.github.com/users/cschleiden/repos",
+  "events_url": "https://api.github.com/users/cschleiden/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cschleiden/received_events",
+  "type": "User",
+  "site_admin": true
+}

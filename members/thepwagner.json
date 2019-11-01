@@ -1,0 +1,20 @@
+{
+  "login": "thepwagner",
+  "id": 1559510,
+  "node_id": "MDQ6VXNlcjE1NTk1MTA=",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1559510?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/thepwagner",
+  "html_url": "https://github.com/thepwagner",
+  "followers_url": "https://api.github.com/users/thepwagner/followers",
+  "following_url": "https://api.github.com/users/thepwagner/following{/other_user}",
+  "gists_url": "https://api.github.com/users/thepwagner/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/thepwagner/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/thepwagner/subscriptions",
+  "organizations_url": "https://api.github.com/users/thepwagner/orgs",
+  "repos_url": "https://api.github.com/users/thepwagner/repos",
+  "events_url": "https://api.github.com/users/thepwagner/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/thepwagner/received_events",
+  "type": "User",
+  "site_admin": true
+}

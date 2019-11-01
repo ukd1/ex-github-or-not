@@ -1,0 +1,20 @@
+{
+  "login": "RasmusWL",
+  "id": 1054041,
+  "node_id": "MDQ6VXNlcjEwNTQwNDE=",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1054041?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/RasmusWL",
+  "html_url": "https://github.com/RasmusWL",
+  "followers_url": "https://api.github.com/users/RasmusWL/followers",
+  "following_url": "https://api.github.com/users/RasmusWL/following{/other_user}",
+  "gists_url": "https://api.github.com/users/RasmusWL/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/RasmusWL/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/RasmusWL/subscriptions",
+  "organizations_url": "https://api.github.com/users/RasmusWL/orgs",
+  "repos_url": "https://api.github.com/users/RasmusWL/repos",
+  "events_url": "https://api.github.com/users/RasmusWL/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/RasmusWL/received_events",
+  "type": "User",
+  "site_admin": true
+}

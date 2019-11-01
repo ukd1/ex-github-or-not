@@ -1,0 +1,20 @@
+{
+  "login": "rafer",
+  "id": 119414,
+  "node_id": "MDQ6VXNlcjExOTQxNA==",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/119414?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/rafer",
+  "html_url": "https://github.com/rafer",
+  "followers_url": "https://api.github.com/users/rafer/followers",
+  "following_url": "https://api.github.com/users/rafer/following{/other_user}",
+  "gists_url": "https://api.github.com/users/rafer/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/rafer/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/rafer/subscriptions",
+  "organizations_url": "https://api.github.com/users/rafer/orgs",
+  "repos_url": "https://api.github.com/users/rafer/repos",
+  "events_url": "https://api.github.com/users/rafer/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/rafer/received_events",
+  "type": "User",
+  "site_admin": true
+}

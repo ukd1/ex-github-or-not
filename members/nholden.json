@@ -1,0 +1,20 @@
+{
+  "login": "nholden",
+  "id": 7942714,
+  "node_id": "MDQ6VXNlcjc5NDI3MTQ=",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/7942714?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/nholden",
+  "html_url": "https://github.com/nholden",
+  "followers_url": "https://api.github.com/users/nholden/followers",
+  "following_url": "https://api.github.com/users/nholden/following{/other_user}",
+  "gists_url": "https://api.github.com/users/nholden/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/nholden/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/nholden/subscriptions",
+  "organizations_url": "https://api.github.com/users/nholden/orgs",
+  "repos_url": "https://api.github.com/users/nholden/repos",
+  "events_url": "https://api.github.com/users/nholden/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/nholden/received_events",
+  "type": "User",
+  "site_admin": true
+}

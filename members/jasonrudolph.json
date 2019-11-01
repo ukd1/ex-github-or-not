@@ -1,0 +1,20 @@
+{
+  "login": "jasonrudolph",
+  "id": 2988,
+  "node_id": "MDQ6VXNlcjI5ODg=",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/2988?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jasonrudolph",
+  "html_url": "https://github.com/jasonrudolph",
+  "followers_url": "https://api.github.com/users/jasonrudolph/followers",
+  "following_url": "https://api.github.com/users/jasonrudolph/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jasonrudolph/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jasonrudolph/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jasonrudolph/subscriptions",
+  "organizations_url": "https://api.github.com/users/jasonrudolph/orgs",
+  "repos_url": "https://api.github.com/users/jasonrudolph/repos",
+  "events_url": "https://api.github.com/users/jasonrudolph/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jasonrudolph/received_events",
+  "type": "User",
+  "site_admin": true
+}

@@ -1,0 +1,20 @@
+{
+  "login": "simonsj",
+  "id": 118440,
+  "node_id": "MDQ6VXNlcjExODQ0MA==",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/118440?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/simonsj",
+  "html_url": "https://github.com/simonsj",
+  "followers_url": "https://api.github.com/users/simonsj/followers",
+  "following_url": "https://api.github.com/users/simonsj/following{/other_user}",
+  "gists_url": "https://api.github.com/users/simonsj/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/simonsj/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/simonsj/subscriptions",
+  "organizations_url": "https://api.github.com/users/simonsj/orgs",
+  "repos_url": "https://api.github.com/users/simonsj/repos",
+  "events_url": "https://api.github.com/users/simonsj/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/simonsj/received_events",
+  "type": "User",
+  "site_admin": true
+}

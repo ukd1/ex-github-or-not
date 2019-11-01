@@ -1,0 +1,20 @@
+{
+  "login": "look",
+  "id": 10186,
+  "node_id": "MDQ6VXNlcjEwMTg2",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/10186?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/look",
+  "html_url": "https://github.com/look",
+  "followers_url": "https://api.github.com/users/look/followers",
+  "following_url": "https://api.github.com/users/look/following{/other_user}",
+  "gists_url": "https://api.github.com/users/look/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/look/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/look/subscriptions",
+  "organizations_url": "https://api.github.com/users/look/orgs",
+  "repos_url": "https://api.github.com/users/look/repos",
+  "events_url": "https://api.github.com/users/look/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/look/received_events",
+  "type": "User",
+  "site_admin": true
+}

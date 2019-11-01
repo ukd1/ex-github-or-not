@@ -1,0 +1,20 @@
+{
+  "login": "djdefi",
+  "id": 3662109,
+  "node_id": "MDQ6VXNlcjM2NjIxMDk=",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/3662109?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/djdefi",
+  "html_url": "https://github.com/djdefi",
+  "followers_url": "https://api.github.com/users/djdefi/followers",
+  "following_url": "https://api.github.com/users/djdefi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/djdefi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/djdefi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/djdefi/subscriptions",
+  "organizations_url": "https://api.github.com/users/djdefi/orgs",
+  "repos_url": "https://api.github.com/users/djdefi/repos",
+  "events_url": "https://api.github.com/users/djdefi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/djdefi/received_events",
+  "type": "User",
+  "site_admin": true
+}

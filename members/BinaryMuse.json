@@ -1,0 +1,20 @@
+{
+  "login": "BinaryMuse",
+  "id": 189606,
+  "node_id": "MDQ6VXNlcjE4OTYwNg==",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/189606?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/BinaryMuse",
+  "html_url": "https://github.com/BinaryMuse",
+  "followers_url": "https://api.github.com/users/BinaryMuse/followers",
+  "following_url": "https://api.github.com/users/BinaryMuse/following{/other_user}",
+  "gists_url": "https://api.github.com/users/BinaryMuse/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/BinaryMuse/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/BinaryMuse/subscriptions",
+  "organizations_url": "https://api.github.com/users/BinaryMuse/orgs",
+  "repos_url": "https://api.github.com/users/BinaryMuse/repos",
+  "events_url": "https://api.github.com/users/BinaryMuse/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/BinaryMuse/received_events",
+  "type": "User",
+  "site_admin": true
+}

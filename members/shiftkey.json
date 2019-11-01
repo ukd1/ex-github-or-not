@@ -1,0 +1,20 @@
+{
+  "login": "shiftkey",
+  "id": 359239,
+  "node_id": "MDQ6VXNlcjM1OTIzOQ==",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/359239?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shiftkey",
+  "html_url": "https://github.com/shiftkey",
+  "followers_url": "https://api.github.com/users/shiftkey/followers",
+  "following_url": "https://api.github.com/users/shiftkey/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shiftkey/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shiftkey/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shiftkey/subscriptions",
+  "organizations_url": "https://api.github.com/users/shiftkey/orgs",
+  "repos_url": "https://api.github.com/users/shiftkey/repos",
+  "events_url": "https://api.github.com/users/shiftkey/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shiftkey/received_events",
+  "type": "User",
+  "site_admin": true
+}

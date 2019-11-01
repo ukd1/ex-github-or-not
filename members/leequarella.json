@@ -1,0 +1,20 @@
+{
+  "login": "leequarella",
+  "id": 879547,
+  "node_id": "MDQ6VXNlcjg3OTU0Nw==",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/879547?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/leequarella",
+  "html_url": "https://github.com/leequarella",
+  "followers_url": "https://api.github.com/users/leequarella/followers",
+  "following_url": "https://api.github.com/users/leequarella/following{/other_user}",
+  "gists_url": "https://api.github.com/users/leequarella/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/leequarella/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/leequarella/subscriptions",
+  "organizations_url": "https://api.github.com/users/leequarella/orgs",
+  "repos_url": "https://api.github.com/users/leequarella/repos",
+  "events_url": "https://api.github.com/users/leequarella/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/leequarella/received_events",
+  "type": "User",
+  "site_admin": false
+}

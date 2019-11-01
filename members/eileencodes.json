@@ -1,0 +1,20 @@
+{
+  "login": "eileencodes",
+  "id": 1080678,
+  "node_id": "MDQ6VXNlcjEwODA2Nzg=",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1080678?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/eileencodes",
+  "html_url": "https://github.com/eileencodes",
+  "followers_url": "https://api.github.com/users/eileencodes/followers",
+  "following_url": "https://api.github.com/users/eileencodes/following{/other_user}",
+  "gists_url": "https://api.github.com/users/eileencodes/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/eileencodes/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/eileencodes/subscriptions",
+  "organizations_url": "https://api.github.com/users/eileencodes/orgs",
+  "repos_url": "https://api.github.com/users/eileencodes/repos",
+  "events_url": "https://api.github.com/users/eileencodes/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/eileencodes/received_events",
+  "type": "User",
+  "site_admin": true
+}

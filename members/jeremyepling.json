@@ -1,0 +1,20 @@
+{
+  "login": "jeremyepling",
+  "id": 10550641,
+  "node_id": "MDQ6VXNlcjEwNTUwNjQx",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/10550641?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/jeremyepling",
+  "html_url": "https://github.com/jeremyepling",
+  "followers_url": "https://api.github.com/users/jeremyepling/followers",
+  "following_url": "https://api.github.com/users/jeremyepling/following{/other_user}",
+  "gists_url": "https://api.github.com/users/jeremyepling/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/jeremyepling/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/jeremyepling/subscriptions",
+  "organizations_url": "https://api.github.com/users/jeremyepling/orgs",
+  "repos_url": "https://api.github.com/users/jeremyepling/repos",
+  "events_url": "https://api.github.com/users/jeremyepling/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/jeremyepling/received_events",
+  "type": "User",
+  "site_admin": true
+}

@@ -1,0 +1,20 @@
+{
+  "login": "SvanBoxel",
+  "id": 24505883,
+  "node_id": "MDQ6VXNlcjI0NTA1ODgz",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/24505883?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/SvanBoxel",
+  "html_url": "https://github.com/SvanBoxel",
+  "followers_url": "https://api.github.com/users/SvanBoxel/followers",
+  "following_url": "https://api.github.com/users/SvanBoxel/following{/other_user}",
+  "gists_url": "https://api.github.com/users/SvanBoxel/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/SvanBoxel/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/SvanBoxel/subscriptions",
+  "organizations_url": "https://api.github.com/users/SvanBoxel/orgs",
+  "repos_url": "https://api.github.com/users/SvanBoxel/repos",
+  "events_url": "https://api.github.com/users/SvanBoxel/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/SvanBoxel/received_events",
+  "type": "User",
+  "site_admin": true
+}

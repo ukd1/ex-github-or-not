@@ -1,0 +1,20 @@
+{
+  "login": "shawnajean",
+  "id": 775884,
+  "node_id": "MDQ6VXNlcjc3NTg4NA==",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/775884?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shawnajean",
+  "html_url": "https://github.com/shawnajean",
+  "followers_url": "https://api.github.com/users/shawnajean/followers",
+  "following_url": "https://api.github.com/users/shawnajean/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shawnajean/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shawnajean/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shawnajean/subscriptions",
+  "organizations_url": "https://api.github.com/users/shawnajean/orgs",
+  "repos_url": "https://api.github.com/users/shawnajean/repos",
+  "events_url": "https://api.github.com/users/shawnajean/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shawnajean/received_events",
+  "type": "User",
+  "site_admin": true
+}

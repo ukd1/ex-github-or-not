@@ -1,0 +1,20 @@
+{
+  "login": "shayfrendt",
+  "id": 32535,
+  "node_id": "MDQ6VXNlcjMyNTM1",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/32535?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/shayfrendt",
+  "html_url": "https://github.com/shayfrendt",
+  "followers_url": "https://api.github.com/users/shayfrendt/followers",
+  "following_url": "https://api.github.com/users/shayfrendt/following{/other_user}",
+  "gists_url": "https://api.github.com/users/shayfrendt/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/shayfrendt/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/shayfrendt/subscriptions",
+  "organizations_url": "https://api.github.com/users/shayfrendt/orgs",
+  "repos_url": "https://api.github.com/users/shayfrendt/repos",
+  "events_url": "https://api.github.com/users/shayfrendt/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/shayfrendt/received_events",
+  "type": "User",
+  "site_admin": true
+}

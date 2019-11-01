@@ -1,0 +1,20 @@
+{
+  "login": "megbird",
+  "id": 5658046,
+  "node_id": "MDQ6VXNlcjU2NTgwNDY=",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/5658046?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/megbird",
+  "html_url": "https://github.com/megbird",
+  "followers_url": "https://api.github.com/users/megbird/followers",
+  "following_url": "https://api.github.com/users/megbird/following{/other_user}",
+  "gists_url": "https://api.github.com/users/megbird/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/megbird/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/megbird/subscriptions",
+  "organizations_url": "https://api.github.com/users/megbird/orgs",
+  "repos_url": "https://api.github.com/users/megbird/repos",
+  "events_url": "https://api.github.com/users/megbird/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/megbird/received_events",
+  "type": "User",
+  "site_admin": true
+}

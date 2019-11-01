@@ -1,0 +1,20 @@
+{
+  "login": "brentjo",
+  "id": 6415223,
+  "node_id": "MDQ6VXNlcjY0MTUyMjM=",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/6415223?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/brentjo",
+  "html_url": "https://github.com/brentjo",
+  "followers_url": "https://api.github.com/users/brentjo/followers",
+  "following_url": "https://api.github.com/users/brentjo/following{/other_user}",
+  "gists_url": "https://api.github.com/users/brentjo/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/brentjo/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/brentjo/subscriptions",
+  "organizations_url": "https://api.github.com/users/brentjo/orgs",
+  "repos_url": "https://api.github.com/users/brentjo/repos",
+  "events_url": "https://api.github.com/users/brentjo/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/brentjo/received_events",
+  "type": "User",
+  "site_admin": true
+}

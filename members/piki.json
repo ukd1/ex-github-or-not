@@ -1,0 +1,20 @@
+{
+  "login": "piki",
+  "id": 3660033,
+  "node_id": "MDQ6VXNlcjM2NjAwMzM=",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/3660033?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/piki",
+  "html_url": "https://github.com/piki",
+  "followers_url": "https://api.github.com/users/piki/followers",
+  "following_url": "https://api.github.com/users/piki/following{/other_user}",
+  "gists_url": "https://api.github.com/users/piki/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/piki/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/piki/subscriptions",
+  "organizations_url": "https://api.github.com/users/piki/orgs",
+  "repos_url": "https://api.github.com/users/piki/repos",
+  "events_url": "https://api.github.com/users/piki/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/piki/received_events",
+  "type": "User",
+  "site_admin": true
+}

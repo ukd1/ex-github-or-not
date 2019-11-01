@@ -1,0 +1,20 @@
+{
+  "login": "bswinnerton",
+  "id": 934497,
+  "node_id": "MDQ6VXNlcjkzNDQ5Nw==",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/934497?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bswinnerton",
+  "html_url": "https://github.com/bswinnerton",
+  "followers_url": "https://api.github.com/users/bswinnerton/followers",
+  "following_url": "https://api.github.com/users/bswinnerton/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bswinnerton/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bswinnerton/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bswinnerton/subscriptions",
+  "organizations_url": "https://api.github.com/users/bswinnerton/orgs",
+  "repos_url": "https://api.github.com/users/bswinnerton/repos",
+  "events_url": "https://api.github.com/users/bswinnerton/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bswinnerton/received_events",
+  "type": "User",
+  "site_admin": true
+}

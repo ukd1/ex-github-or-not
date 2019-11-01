@@ -1,0 +1,20 @@
+{
+  "login": "bwestover",
+  "id": 1987494,
+  "node_id": "MDQ6VXNlcjE5ODc0OTQ=",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1987494?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/bwestover",
+  "html_url": "https://github.com/bwestover",
+  "followers_url": "https://api.github.com/users/bwestover/followers",
+  "following_url": "https://api.github.com/users/bwestover/following{/other_user}",
+  "gists_url": "https://api.github.com/users/bwestover/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/bwestover/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/bwestover/subscriptions",
+  "organizations_url": "https://api.github.com/users/bwestover/orgs",
+  "repos_url": "https://api.github.com/users/bwestover/repos",
+  "events_url": "https://api.github.com/users/bwestover/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/bwestover/received_events",
+  "type": "User",
+  "site_admin": true
+}

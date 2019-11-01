@@ -1,0 +1,20 @@
+{
+  "login": "hectorsector",
+  "id": 16547949,
+  "node_id": "MDQ6VXNlcjE2NTQ3OTQ5",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/16547949?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/hectorsector",
+  "html_url": "https://github.com/hectorsector",
+  "followers_url": "https://api.github.com/users/hectorsector/followers",
+  "following_url": "https://api.github.com/users/hectorsector/following{/other_user}",
+  "gists_url": "https://api.github.com/users/hectorsector/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/hectorsector/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/hectorsector/subscriptions",
+  "organizations_url": "https://api.github.com/users/hectorsector/orgs",
+  "repos_url": "https://api.github.com/users/hectorsector/repos",
+  "events_url": "https://api.github.com/users/hectorsector/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/hectorsector/received_events",
+  "type": "User",
+  "site_admin": true
+}

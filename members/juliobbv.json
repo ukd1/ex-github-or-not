@@ -1,0 +1,20 @@
+{
+  "login": "juliobbv",
+  "id": 2474119,
+  "node_id": "MDQ6VXNlcjI0NzQxMTk=",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/2474119?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/juliobbv",
+  "html_url": "https://github.com/juliobbv",
+  "followers_url": "https://api.github.com/users/juliobbv/followers",
+  "following_url": "https://api.github.com/users/juliobbv/following{/other_user}",
+  "gists_url": "https://api.github.com/users/juliobbv/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/juliobbv/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/juliobbv/subscriptions",
+  "organizations_url": "https://api.github.com/users/juliobbv/orgs",
+  "repos_url": "https://api.github.com/users/juliobbv/repos",
+  "events_url": "https://api.github.com/users/juliobbv/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/juliobbv/received_events",
+  "type": "User",
+  "site_admin": true
+}

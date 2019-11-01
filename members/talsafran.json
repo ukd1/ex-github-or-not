@@ -1,0 +1,20 @@
+{
+  "login": "talsafran",
+  "id": 257028,
+  "node_id": "MDQ6VXNlcjI1NzAyOA==",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/257028?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/talsafran",
+  "html_url": "https://github.com/talsafran",
+  "followers_url": "https://api.github.com/users/talsafran/followers",
+  "following_url": "https://api.github.com/users/talsafran/following{/other_user}",
+  "gists_url": "https://api.github.com/users/talsafran/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/talsafran/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/talsafran/subscriptions",
+  "organizations_url": "https://api.github.com/users/talsafran/orgs",
+  "repos_url": "https://api.github.com/users/talsafran/repos",
+  "events_url": "https://api.github.com/users/talsafran/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/talsafran/received_events",
+  "type": "User",
+  "site_admin": true
+}

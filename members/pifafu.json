@@ -1,0 +1,20 @@
+{
+  "login": "pifafu",
+  "id": 5679180,
+  "node_id": "MDQ6VXNlcjU2NzkxODA=",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/5679180?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/pifafu",
+  "html_url": "https://github.com/pifafu",
+  "followers_url": "https://api.github.com/users/pifafu/followers",
+  "following_url": "https://api.github.com/users/pifafu/following{/other_user}",
+  "gists_url": "https://api.github.com/users/pifafu/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/pifafu/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/pifafu/subscriptions",
+  "organizations_url": "https://api.github.com/users/pifafu/orgs",
+  "repos_url": "https://api.github.com/users/pifafu/repos",
+  "events_url": "https://api.github.com/users/pifafu/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/pifafu/received_events",
+  "type": "User",
+  "site_admin": true
+}

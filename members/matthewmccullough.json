@@ -1,0 +1,20 @@
+{
+  "login": "matthewmccullough",
+  "id": 24734,
+  "node_id": "MDQ6VXNlcjI0NzM0",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/24734?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/matthewmccullough",
+  "html_url": "https://github.com/matthewmccullough",
+  "followers_url": "https://api.github.com/users/matthewmccullough/followers",
+  "following_url": "https://api.github.com/users/matthewmccullough/following{/other_user}",
+  "gists_url": "https://api.github.com/users/matthewmccullough/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/matthewmccullough/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/matthewmccullough/subscriptions",
+  "organizations_url": "https://api.github.com/users/matthewmccullough/orgs",
+  "repos_url": "https://api.github.com/users/matthewmccullough/repos",
+  "events_url": "https://api.github.com/users/matthewmccullough/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/matthewmccullough/received_events",
+  "type": "User",
+  "site_admin": true
+}

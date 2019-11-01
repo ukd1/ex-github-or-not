@@ -1,0 +1,20 @@
+{
+  "login": "donokuda",
+  "id": 1174461,
+  "node_id": "MDQ6VXNlcjExNzQ0NjE=",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1174461?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/donokuda",
+  "html_url": "https://github.com/donokuda",
+  "followers_url": "https://api.github.com/users/donokuda/followers",
+  "following_url": "https://api.github.com/users/donokuda/following{/other_user}",
+  "gists_url": "https://api.github.com/users/donokuda/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/donokuda/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/donokuda/subscriptions",
+  "organizations_url": "https://api.github.com/users/donokuda/orgs",
+  "repos_url": "https://api.github.com/users/donokuda/repos",
+  "events_url": "https://api.github.com/users/donokuda/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/donokuda/received_events",
+  "type": "User",
+  "site_admin": true
+}

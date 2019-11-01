@@ -1,0 +1,20 @@
+{
+  "login": "matthewferry",
+  "id": 895885,
+  "node_id": "MDQ6VXNlcjg5NTg4NQ==",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/895885?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/matthewferry",
+  "html_url": "https://github.com/matthewferry",
+  "followers_url": "https://api.github.com/users/matthewferry/followers",
+  "following_url": "https://api.github.com/users/matthewferry/following{/other_user}",
+  "gists_url": "https://api.github.com/users/matthewferry/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/matthewferry/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/matthewferry/subscriptions",
+  "organizations_url": "https://api.github.com/users/matthewferry/orgs",
+  "repos_url": "https://api.github.com/users/matthewferry/repos",
+  "events_url": "https://api.github.com/users/matthewferry/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/matthewferry/received_events",
+  "type": "User",
+  "site_admin": true
+}

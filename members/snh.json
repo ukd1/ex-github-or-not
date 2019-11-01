@@ -1,0 +1,20 @@
+{
+  "login": "snh",
+  "id": 2051768,
+  "node_id": "MDQ6VXNlcjIwNTE3Njg=",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/2051768?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/snh",
+  "html_url": "https://github.com/snh",
+  "followers_url": "https://api.github.com/users/snh/followers",
+  "following_url": "https://api.github.com/users/snh/following{/other_user}",
+  "gists_url": "https://api.github.com/users/snh/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/snh/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/snh/subscriptions",
+  "organizations_url": "https://api.github.com/users/snh/orgs",
+  "repos_url": "https://api.github.com/users/snh/repos",
+  "events_url": "https://api.github.com/users/snh/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/snh/received_events",
+  "type": "User",
+  "site_admin": true
+}
