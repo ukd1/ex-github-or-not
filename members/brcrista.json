@@ -1,0 +1,20 @@
+{
+  "login": "brcrista",
+  "id": 33549821,
+  "node_id": "MDQ6VXNlcjMzNTQ5ODIx",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/33549821?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/brcrista",
+  "html_url": "https://github.com/brcrista",
+  "followers_url": "https://api.github.com/users/brcrista/followers",
+  "following_url": "https://api.github.com/users/brcrista/following{/other_user}",
+  "gists_url": "https://api.github.com/users/brcrista/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/brcrista/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/brcrista/subscriptions",
+  "organizations_url": "https://api.github.com/users/brcrista/orgs",
+  "repos_url": "https://api.github.com/users/brcrista/repos",
+  "events_url": "https://api.github.com/users/brcrista/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/brcrista/received_events",
+  "type": "User",
+  "site_admin": true
+}
